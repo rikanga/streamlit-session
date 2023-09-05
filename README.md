@@ -1,4 +1,4 @@
-echo "# streamlit-session" >> README.md
+# README.md
 git init
 git add README.md
 git commit -m "first commit"
